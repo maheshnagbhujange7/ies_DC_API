@@ -2,8 +2,6 @@ package com.spider._DC_API.entities;
 
 import java.time.LocalDate;
 
-import com.spider.ADMIN_API.entities.UserEntity;
-
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
